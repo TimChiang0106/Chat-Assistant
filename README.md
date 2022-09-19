@@ -2,6 +2,11 @@
 
 This project was created by Tim Chiang
 
+-----
+## Demo
+![image1](https://storage.googleapis.com/github-image-bucket/p1-assistant-1.png)
+![image1](https://storage.googleapis.com/github-image-bucket/p1-assistant-2.png)
+
 ## Updating
 
 2022.08.28: 
